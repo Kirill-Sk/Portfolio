@@ -5,4 +5,4 @@
 | Название проекта | Описание | Стек | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Тверской ГМУ](Tver_SMU) | Создание дашборда для оценки укомплектованности медицинских организаций Тверской области | *python*, *pandas*, *matplotlib*, *seaborn*, *re*, *fuzzywuzzy*, *haversine*, *Yandex DataLens* |
-| [Простые вещи](simple_things) | Создание дашборда для оценки особенностей поведения пользователей АНО "Простые вещи" | *python*, *pandas*, *matplotlib*, *seaborn*, *re*, *fuzzywuzzy*, *haversine*, *Yandex DataLens* |
+| [Простые вещи](simple_things) | Создание дашборда для оценки особенностей поведения пользователей АНО "Простые вещи" | *python*, _pandas_, _datetime_, _matplotlib_, _numpy_, _scipy_, *ydata_profiling*, _warnings_, *Yandex DataLens* |
